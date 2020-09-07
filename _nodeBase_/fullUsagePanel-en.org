@@ -59,7 +59,7 @@ A Unified and Non-Proprietary Model For Transparent Internet Services
 A Moral Alterantive To The Proprietary American Digital Ecosystem 
 [ Supported By: The Libre-Halaal Foundation || Neda Communications, Inc. || Mohsen Banan
   See Also: PLPC-180016 || ByStar Overview Podcast || Nature Of Poly-Existentials 
-  Mirrored At: by-star.net (North America) || bystar.de (Europe) || bystar.ir (Middle East) ]
+  Mirrored At: by-star.net (Americas) || bystar.de (Europe) || bystar.ir (Middle East) ]
 ** TODO A functional equivalent of Facebook that respects your privacy and in which you be autonomus.
    SCHEDULED: <2020-09-01 Tue>
 ** TODO A functional equivalent of Microsoft Windows or Apple that creates a deep transparent Software-Service continuum. 
